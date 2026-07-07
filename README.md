@@ -5,7 +5,7 @@
 
 ## 📖 Project Overview
 
-AI Hand Gesture Automation Hub enables touch-free interaction with a Windows computer through computer vision and deep learning. The system detects hand landmarks using MediaPipe, classifies gestures using a TensorFlow model, and executes predefined system actions in real time.
+A Hand Gesture Recognition system enables touch-free interaction with a Windows computer through computer vision and deep learning. The system detects hand landmarks using MediaPipe, classifies gestures using a TensorFlow model, and executes predefined system actions in real time.
 
 This project demonstrates the integration of Computer Vision, Machine Learning, and Automation to create an intuitive Human-Computer Interaction (HCI) system.
 
