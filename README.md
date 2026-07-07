@@ -1,6 +1,5 @@
-# 🤖 AI Hand Gesture Automation Hub
-
-An AI-powered Hand Gesture Recognition and Computer Automation System built using **Python, OpenCV, MediaPipe, TensorFlow, and Streamlit**. The application recognizes hand gestures in real time using a webcam and performs system actions such as controlling volume, taking screenshots, media control, mouse control, and more.
+#  Hand Gesture Recognition system
+ A Hand Gesture Recognition and Computer Automation System built using **Python, OpenCV, MediaPipe, TensorFlow, and Streamlit**. The application recognizes hand gestures in real time using a webcam and performs system actions such as controlling volume, taking screenshots, media control, mouse control, and more.
 
 ---
 
